@@ -1,4 +1,4 @@
-# Query-2
+# Query-1
 
 <pre><code>
 DECLARE @STARTDATE DATE = '2024-01-01';
